@@ -1,0 +1,30 @@
+@media screen and (max-width: 1024px) {
+    .conteiner {background-color: rgb(252, 169, 15);
+
+    }
+    .titulo {
+        color: orangered;
+    }
+}
+
+@media screen and (max-width 768px) {
+    .conteiner {background-color: blueviolet;
+
+    }
+    .titulo {
+        color: rgb(28, 2, 53);
+
+    }
+    
+}
+
+@media screen and (max-width 480px) {
+    .conteiner {background-color: green;
+
+    }
+    .titulo {
+        color: greenyellow;
+
+    }
+}
+    

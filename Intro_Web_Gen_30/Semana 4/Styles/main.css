@@ -1,0 +1,41 @@
+body {
+    font-family: system-ui;
+    text-align: center;
+    color: white;
+    background: rgb(33, 33, 69);
+}
+
+.bg-blue {
+    background: blue;
+}
+
+.card {
+background: #2980b9;
+}
+
+.boxModel{
+    /* width: 200px;
+    height: 200px; */
+    padding: 20px;
+    border: 5px solid white;
+    margin: 30px;
+}
+.btn{
+background: white;
+color: black;
+font-size: 1.5em;
+border: none;
+
+}
+.btn-green{
+background: green;
+}
+.btn-blue{
+background: blue;
+}
+.btn-big {
+    padding: 2rem;
+}
+.btn-small {
+    padding: 1rem;
+}

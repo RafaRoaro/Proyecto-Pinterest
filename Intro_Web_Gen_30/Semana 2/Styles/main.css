@@ -1,0 +1,15 @@
+body {
+    font-family: system-ui;
+    text-align: center;
+    color: white;
+    background: rgb(23, 23, 40);
+}
+
+.bg-blue {
+    background: blue;
+}
+
+.card {
+background: #2980b9;
+}
+

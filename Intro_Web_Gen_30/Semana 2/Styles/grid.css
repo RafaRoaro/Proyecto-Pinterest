@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: system-ui;
+    background: #34495e;
+    color: white;
+    display: grid;
+    gap: 2rem;
+}
+
+img {
+    vertical-align: middle;
+}
+
+a {
+    color: white;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+main {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2rem;
+}
+
+article {
+    padding: 1rem;
+    border: 2px solid white;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
